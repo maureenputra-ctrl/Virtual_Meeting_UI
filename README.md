@@ -11,6 +11,8 @@ An interactive front-end prototype exploring what a meeting platform looks like 
 [![Lucide](https://img.shields.io/badge/Icons-Lucide-014592?labelColor=111)](https://lucide.dev)
 [![Status](https://img.shields.io/badge/status-prototype-yellow?labelColor=111)]()
 
+**[🔗 Live demo](https://maureenputra-ctrl.github.io/virtual_meeting_UI/)**
+
 </div>
 
 ---
