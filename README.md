@@ -101,7 +101,7 @@ This project was built during a product design internship, framed around a simpl
 
 ## Author
 
-**Setyana Putra**
+**Maureen F. Putra**
 
 ---
 
