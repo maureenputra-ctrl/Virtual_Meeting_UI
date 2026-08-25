@@ -86,7 +86,7 @@ npm run preview
 
 ```
 .
-├── converge-app.jsx          # Main application — all screens & UI logic
+├── virtual_meeting_ui.jsx          # Main application — all screens & UI logic
 ├── src/
 │   └── main.jsx               # React entry point
 ├── index.html                  # Vite HTML entry
