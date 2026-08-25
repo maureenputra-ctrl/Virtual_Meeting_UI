@@ -4,7 +4,7 @@
 
 **A video meeting platform built from research, not assumptions.**
 
-An interactive front-end prototype exploring what a meeting platform looks like when it's designed by studying where Zoom, Google Meet, Microsoft Teams, and Webex fall short — then deliberately keeping what works, fixing what's broken, and adding what's missing.
+An interactive front-end prototype exploring what a meeting platform looks like when it's designed by studying where Zoom, Google Meet, Microsoft Teams, and Webex fall short, then deliberately keeping what works, fixing what's broken, and adding what's missing.
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white&labelColor=111)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white&labelColor=111)](https://vitejs.dev)
@@ -17,11 +17,11 @@ An interactive front-end prototype exploring what a meeting platform looks like 
 
 ## About this project
 
-RDS Meet started as a competitive research exercise: study four major video conferencing platforms, evaluate them against a consistent set of criteria, and turn the findings into concrete product decisions. That research — the **Keep / Fix / Add** framework — became the basis for this fully interactive UI prototype, built entirely in React.
+RDS Meet started as a competitive research exercise: study four major video conferencing platforms, evaluate them against a consistent set of criteria, and turn the findings into concrete product decisions. 
 
 Every screen shown here is functional, not a static mockup: the lobby lists real meetings, the pre-join screen previews your actual webcam, the whiteboard draws, breakout rooms drag and drop, and the replay screen jumps between auto-generated chapters.
 
-This repository contains the prototype UI. The research and business case behind it — competitive teardown, feature gap analysis, roadmap, and monetization model — is summarized below and detailed in [`RDS_Meet_Presentation.pptx`](./RDS_Meet_Presentation.pptx).
+This repository contains the prototype UI. The research and business case behind it, competitive teardown, feature gap analysis, roadmap, and monetization model is summarized below and detailed in [`RDS_Meet_Presentation.pptx`](./RDS_Meet_Presentation.pptx).
 
 ## Research approach — the KFA framework
 
@@ -40,27 +40,27 @@ This repository contains the prototype UI. The research and business case behind
 
 ## Features implemented in this prototype
 
-- **Lobby & dashboard** — today's meetings at a glance, live-badge indicators, quick join
-- **Pre-join screen** — real webcam preview, mic/camera toggle before entering
-- **Grid & speaker view** — dynamic participant layouts with pinning
-- **Space Rooms** — an experimental spatial mode where participants sit in a themed virtual room instead of a static grid
-- **Collaborative whiteboard** — draw, add sticky notes, undo/redo
-- **Breakout rooms** — drag-and-drop participant assignment
-- **Hand raise & reactions** — real-time, low-friction non-verbal feedback
-- **Screen sharing & recording** — with a live REC indicator
-- **Chat** — in-meeting messaging with toast notifications
-- **Meeting replay** — auto-chapter segmentation with per-chapter jump navigation
-- **Meeting history & analytics** — duration, engagement score, participation %, action items
-- **Calendar** — view and join scheduled meetings
-- **Settings** — appearance (light/dark), camera preview, meeting preferences
-- **Command palette** — global search (⌘K)
+- **Lobby & dashboard** - today's meetings at a glance, live-badge indicators, quick join
+- **Pre-join screen** - real webcam preview, mic/camera toggle before entering
+- **Grid & speaker view** - dynamic participant layouts with pinning
+- **Space Rooms** - an experimental spatial mode where participants sit in a themed virtual room instead of a static grid
+- **Collaborative whiteboard** - draw, add sticky notes, undo/redo
+- **Breakout rooms** - drag-and-drop participant assignment
+- **Hand raise & reactions** - real-time, low-friction non-verbal feedback
+- **Screen sharing & recording** - with a live REC indicator
+- **Chat** - in-meeting messaging with toast notifications
+- **Meeting replay** - auto-chapter segmentation with per-chapter jump navigation
+- **Meeting history & analytics** - duration, engagement score, participation %, action items
+- **Calendar** - view and join scheduled meetings
+- **Settings** - appearance (light/dark), camera preview, meeting preferences
+- **Command palette** - global search (⌘K)
 
 ## Tech stack
 
-- **[React 18](https://react.dev)** — UI, all in a single self-contained component tree
-- **[Vite](https://vitejs.dev)** — dev server & build tooling
-- **[Lucide React](https://lucide.dev)** — icon set
-- No backend, no external API calls — all data is mocked in-memory to keep the prototype fully self-contained and demo-ready
+- **[React 18](https://react.dev)** - UI, all in a single self-contained component tree
+- **[Vite](https://vitejs.dev)** - dev server & build tooling
+- **[Lucide React](https://lucide.dev)** - icon set
+- No backend, no external API calls - all data is mocked in-memory to keep the prototype fully self-contained and demo-ready
 
 ## Getting started
 
