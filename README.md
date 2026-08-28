@@ -77,7 +77,7 @@ This repository contains the prototype UI. The research and business case behind
 
 ## Background & context
 
-This project was built during a product design internship, framed around a simple question: *what would a meeting platform look like if it were designed from research instead of feature parity checklists?* The accompanying deck covers the full picture — market sizing, a phased roadmap, go-to-market strategy, and revenue projections — but this repository is focused specifically on the interactive prototype that came out of that process.
+This project was built during an IT development internship, centred around a simple question: *how could quality of life features from different virtual meeting apps be put into a single app?* The accompanying deck covers the full picture including: market sizing, a phased roadmap, go-to-market strategy, and revenue projections. But this repository is focused specifically on the interactive prototype that came out of that process.
 
 ## Author
 
