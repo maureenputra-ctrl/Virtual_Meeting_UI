@@ -2,8 +2,6 @@
 
 # RDS Meet
 
-**A video meeting platform built from research, not assumptions.**
-
 An interactive front-end prototype exploring what a meeting platform looks like when it's designed by studying where Zoom, Google Meet, Microsoft Teams, and Webex fall short, then deliberately keeping what works, fixing what's broken, and adding what's missing.
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white&labelColor=111)](https://react.dev)
@@ -37,7 +35,7 @@ This repository contains the prototype UI. The research and business case behind
 
 **Fix** - cluttered navigation, inconsistent cross-platform design, one-way screen sharing, clunky breakout room assignment, whiteboards with no persistence.
 
-**Add** — real-time participant analytics, auto-chapter meeting replay, a per-meeting engagement dashboard, and an AI-generated meeting summary — features no competitor offers well, or at all, without an extra add-on fee.
+**Add** - real-time participant analytics, auto-chapter meeting replay, a per-meeting engagement dashboard, and an AI-generated meeting summary, features no competitor offers well, or at all, without an extra add-on fee.
 
 ## Features implemented in this prototype
 
