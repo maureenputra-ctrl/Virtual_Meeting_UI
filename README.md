@@ -25,18 +25,17 @@ Every screen shown here is functional, not a static mockup: the lobby lists real
 
 This repository contains the prototype UI. The research and business case behind it, competitive teardown, feature gap analysis, roadmap, and monetization model is summarized below and detailed in [`RDS_Meet_Presentation.pptx`](./RDS_Meet_Presentation.pptx).
 
-## Research approach — the KFA framework
-
+## Research approach
 | Step | What we did |
 |---|---|
-| **Select** | Chose 4 platforms by global market share — Zoom, Google Meet, Microsoft Teams, Webex |
+| **Select** | Chose 4 platforms by global market share: Zoom, Google Meet, Microsoft Teams, Webex |
 | **Evaluate** | Scored each against 5 consistent criteria: interface design, navigation, in-meeting collaboration, post-meeting intelligence, and pricing-to-value |
 | **Categorise** | Sorted every finding into **Keep**, **Fix**, or **Add** |
 | **Build** | Turned the findings into concrete requirements for this prototype |
 
-**Keep** — grid view, breakout rooms, polls, reactions, calendar integration, whiteboard, post-meeting file retrieval: proven patterns worth preserving.
+**Keep** - grid view, breakout rooms, polls, reactions, calendar integration, whiteboard, post-meeting file retrieval: proven patterns worth preserving.
 
-**Fix** — cluttered navigation, inconsistent cross-platform design, one-way screen sharing, clunky breakout room assignment, whiteboards with no persistence.
+**Fix** - cluttered navigation, inconsistent cross-platform design, one-way screen sharing, clunky breakout room assignment, whiteboards with no persistence.
 
 **Add** — real-time participant analytics, auto-chapter meeting replay, a per-meeting engagement dashboard, and an AI-generated meeting summary — features no competitor offers well, or at all, without an extra add-on fee.
 
@@ -64,25 +63,6 @@ This repository contains the prototype UI. The research and business case behind
 - **[Lucide React](https://lucide.dev)** - icon set
 - No backend, no external API calls - all data is mocked in-memory to keep the prototype fully self-contained and demo-ready
 
-## Getting started
-
-```bash
-# Install dependencies
-npm install
-
-# Start the dev server
-npm run dev
-```
-
-Then open **http://localhost:5173** in your browser.
-
-```bash
-# Build for production
-npm run build
-
-# Preview the production build
-npm run preview
-```
 
 ## Project structure
 
